@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>org/kde/lottie/qmldir</file>
+        <file>org/kde/lottie/LottieAnimation.qml</file>
+        <file>org/kde/lottie/3rdparty/lottie.min.js</file>
+        <file>org/kde/lottie/private/lottie_shim.js</file>
+        <file>org/kde/lottie/private/HtmlImg.qml</file>
+        <file>data.json</file>
+    </qresource>
+</RCC>
